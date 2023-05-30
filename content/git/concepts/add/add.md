@@ -1,5 +1,5 @@
 ---
-Title: 'Add'
+Title: 'add'
 Description: 'The git add command is used to add changes from the working tree to the staging area. This is where changes are saved for the next commit.'
 Subjects:
   - 'Bash/Shell'
